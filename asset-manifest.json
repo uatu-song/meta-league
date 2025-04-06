@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/meta-league/static/css/main.edbb1ea9.css",
-    "main.js": "/meta-league/static/js/main.c2602454.js",
+    "main.css": "/meta-league/static/css/main.7c13809e.css",
+    "main.js": "/meta-league/static/js/main.cd9190ca.js",
     "index.html": "/meta-league/index.html",
-    "main.edbb1ea9.css.map": "/meta-league/static/css/main.edbb1ea9.css.map",
-    "main.c2602454.js.map": "/meta-league/static/js/main.c2602454.js.map"
+    "main.7c13809e.css.map": "/meta-league/static/css/main.7c13809e.css.map",
+    "main.cd9190ca.js.map": "/meta-league/static/js/main.cd9190ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.edbb1ea9.css",
-    "static/js/main.c2602454.js"
+    "static/css/main.7c13809e.css",
+    "static/js/main.cd9190ca.js"
   ]
 }
