@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sage",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Vision",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Juggernaut",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "Ultron",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Daredevil",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Thor (Jane Foster)",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Apocalypse",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Warlock",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Beast",
+    "role": "Bench",
+    "position": ""
+  }
+]

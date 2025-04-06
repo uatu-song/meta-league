@@ -1,0 +1,121 @@
+Team,Nexus Being,Rank,Position,Primary Type,PositionFull,NB ID
+T001,Rogue,Field Leader,FL,Physical Combatants (PC),Field Leader,ROGUE-121
+T001,Domino,Operations,RG,Physical Combatants (PC),Ranger,DOMINO-047
+T001,Magik,Operations,VG,Mystic Adept (MA),Vanguard,MAGIK-090
+T001,Colossus,Ops./Intel,RG,Physical Combatants (PC),Enforcer,COLOSSUS-032
+T001,Gambit,Ops./Intel,VG,Physical Combatants (PC),Ghost Operative,GAMBIT-057
+T001,Doctor Strange,Ops./Intel,GO,Mystic Adept (MA),Psi Operative,DOCTOR-STRANGE-046
+T001,Emma Frost,Intelligence,PO,Mental Manipulators (MM),Sovereign,EMMA-FROST-052
+T001,Jean Grey (Phoenix),Sovereign,SV,Mental Manipulators (MM),,JEAN-GREY-(PHOENIX)-078
+T001,Hawkeye,Bench,Bench,Physical Combatants (PC),,HAWKEYE-067
+T001,Quicksilver,Bench,Bench,Strategy & Espionage (SE),,QUICKSILVER-118
+T001,Shang-Chi,Bench,Bench,Physical Combatants (PC),,SHANG-CHI-126
+T001,Venom,Bench,Bench,Physical Combatants (PC),,VENOM-157
+T002,Iron Man,Field Leader,FL,Technological & Cybernetic (TC),,IRON-MAN-076
+T002,Nova,Operations,RG,Cosmic & Reality (CR),,NOVA-110
+T002,Spider-Man (Parker),Operations,VG,Physical Combatants (PC),,SPIDER-MAN-(PARKER)-133
+T002,Super-Skrull,Ops./Intel,RG,Physical Combatants (PC),,SUPER-SKRULL-141
+T002,Brawn (Totally Awesome Hulk),Ops./Intel,VG,Physical Combatants (PC),,BRAWN-(TOTALLY-AWESOME-HULK)-021
+T002,The Wasp,Ops./Intel,GO,Technological & Cybernetic (TC),,THE-WASP-151
+T002,Forge,Intelligence,PO,Technological & Cybernetic (TC),,FORGE-056
+T002,Hulkling (Teddy Altman),Sovereign,SV,Cosmic & Reality (CR),,HULKLING-(TEDDY-ALTMAN)-070
+T002,Brother Voodoo,Bench,Bench,Mystic Adept (MA),,BROTHER-VOODOO-022
+T002,Invisible Woman,Bench,Bench,Mystic Adept (MA),,INVISIBLE-WOMAN-074
+T002,Punisher,Bench,Bench,Physical Combatants (PC),,PUNISHER-149
+T002,Wiccan,Bench,Bench,Mystic Adept (MA),,WICCAN-161
+T003,Synch,Field Leader,FL,Physical Combatants (PC),,SYNCH-142
+T003,Bishop,Operations,RG,Physical Combatants (PC),,BISHOP-011
+T003,Magneto,Operations,VG,Mental Manipulators (MM),,MAGNETO-091
+T003,Hulk,Ops./Intel,RG,Physical Combatants (PC),,HULK-069
+T003,Carnage,Ops./Intel,VG,Physical Combatants (PC),,CARNAGE-029
+T003,Psylocke,Ops./Intel,GO,Mental Manipulators (MM),,PSYLOCKE-116
+T003,Moonstar,Intelligence,PO,Mental Manipulators (MM),,MOONSTAR-097
+T003,Scarlet Witch,Sovereign,SV,Cosmic & Reality (CR),,SCARLET-WITCH-124
+T003,Cloak,Bench,Bench,Mystic Adept (MA),,CLOAK-030
+T003,Dagger,Bench,Bench,Mystic Adept (MA),,DAGGER-036
+T003,Ironheart,Bench,Bench,Mystic Adept (MA),,IRONHEART-077
+T003,Smasher,Bench,Bench,Mystic Adept (MA),,SMASHER-130
+T004,Captain Marvel,Field Leader,FL,Cosmic & Reality (CR),,CAPTAIN-MARVEL-027
+T004,Iron Fist,Operations,RG,Mystic Adept (MA),,IRON-FIST-075
+T004,Drax the Destroyer,Operations,VG,Physical Combatants (PC),,DRAX-THE-DESTROYER-048
+T004,Morph,Ops./Intel,RG,Physical Combatants (PC),,MORPH-098
+T004,Star Brand,Ops./Intel,VG,Technological & Cybernetic (TC),,STAR-BRAND-136
+T004,The Thing,Ops./Intel,VG,Physical Combatants (PC),,THE-THING-150
+T004,Doctor Octopus,Intelligence,PO,Technological & Cybernetic (TC),,DOCTOR-OCTOPUS-045
+T004,Silver Surfer,Sovereign,SV,Cosmic & Reality (CR),,SILVER-SURFER-129
+T004,Black Panther (T'Challa),Bench,Bench,Strategy & Espionage (SE),,BLACK-PANTHER-(T'CHALLA)-015
+T004,Ghost Spider (Spider-Gwen),Bench,Bench,Physical Combatants (PC),,GHOST-SPIDER-(SPIDER-GWEN)-060
+T004,Moon Knight,Bench,Bench,Strategy & Espionage (SE),,MOON-KNIGHT-096
+T004,Professor X,Bench,Bench,Mental Manipulators (MM),,PROFESSOR-X-114
+T005,Doctor Doom,Field Leader,FL,Mystic Adept (MA),,DOCTOR-DOOM-044
+T005,Black Bolt,Operations,RG,Cosmic & Reality (CR),,BLACK-BOLT-012
+T005,Gladiator,Operations,VG,Cosmic & Reality (CR),,GLADIATOR-061
+T005,Beta Ray Bill,Ops./Intel,RG,Cosmic & Reality (CR),,BETA-RAY-BILL-010
+T005,Exodus,Ops./Intel,VG,Mystic Adept (MA),,EXODUS-053
+T005,Darwin,Ops./Intel,VG,Physical Combatants (PC),,DARWIN-040
+T005,Proteus,Intelligence,PO,Cosmic & Reality (CR),,PROTEUS-115
+T005,Sentry,Sovereign,SV,Physical Combatants (PC),,SENTRY-125
+T005,Guardian,Bench,Bench,Technological & Cybernetic (TC),,GUARDIAN-065
+T005,Jocasta,Bench,Bench,Technological & Cybernetic (TC),,JOCASTA-080
+T005,Nimrod,Bench,Bench,Technological & Cybernetic (TC),,NIMROD-109
+T005,Taskmaster,Bench,Bench,Mystic Adept (MA),,TASKMASTER-144
+T006,Thor,Field Leader,FL,Cosmic & Reality (CR),,THOR-152
+T006,Deadpool,Operations,RG,Physical Combatants (PC),,DEADPOOL-042
+T006,Wolverine,Operations,VG,Physical Combatants (PC),,WOLVERINE-164
+T006,She-Hulk,Ops./Intel,RG,Strategy & Espionage (SE),,SHE-HULK-127
+T006,Iceman,Ops./Intel,VG,Mystic Adept (MA),,ICEMAN-073
+T006,Rocket Racoon,Ops./Intel,GO,Physical Combatants (PC),,ROCKET-RACOON-120
+T006,Kid Omega,Intelligence,PO,Mental Manipulators (MM),,KID-OMEGA-085
+T006,Wonder Man,Sovereign,SV,Cosmic & Reality (CR),,WONDER-MAN-166
+T006,Ant-Man,Bench,Bench,Technological & Cybernetic (TC),,ANT-MAN-005
+T006,Deathlok,Bench,Bench,Technological & Cybernetic (TC),,DEATHLOK-043
+T006,Gamora,Bench,Bench,Physical Combatants (PC),,GAMORA-058
+T006,Kang the Conqueror,Bench,Bench,Technological & Cybernetic (TC),,KANG-THE-CONQUEROR-083
+T007,Captain America (Rogers),Field Leader,FL,Strategy & Espionage (SE),,CAPTAIN-AMERICA-(ROGERS)-025
+T007,Spider-Man (Morales),Operations,RG,Physical Combatants (PC),,SPIDER-MAN-(MORALES)-132
+T007,Wolverine / X-23,Operations,VG,Physical Combatants (PC),,WOLVERINE--X-23-165
+T007,The Human Torch,Ops./Intel,RG,Physical Combatants (PC),,THE-HUMAN-TORCH-147
+T007,Mr. Fantastic,Ops./Intel,VG,Technological & Cybernetic (TC),,MR.-FANTASTIC-099
+T007,Xorn,Ops./Intel,VG,Mystic Adept (MA),,XORN-167
+T007,Ghost Rider,Intelligence,PO,Mystic Adept (MA),,GHOST-RIDER-059
+T007,Blue Marvel,Sovereign,SV,Cosmic & Reality (CR),,BLUE-MARVEL-020
+T007,Adam Warlock,Bench,Bench,Cosmic & Reality (CR),,ADAM-WARLOCK-002
+T007,Nebula,Bench,Bench,Technological & Cybernetic (TC),,NEBULA-105
+T007,Nick Fury,Bench,Bench,Strategy & Espionage (SE),,NICK-FURY-106
+T007,Nightcrawler,Bench,Bench,Mystic Adept (MA),,NIGHTCRAWLER-108
+T008,Sage,Field Leader,FL,Cosmic & Reality (CR),,SAGE-123
+T008,Vision,Operations,RG,Technological & Cybernetic (TC),,VISION-158
+T008,Juggernaut,Operations,VG,Physical Combatants (PC),,JUGGERNAUT-082
+T008,Ultron,Ops./Intel,RG,Technological & Cybernetic (TC),,ULTRON-155
+T008,Daredevil,Ops./Intel,VG,Strategy & Espionage (SE),,DAREDEVIL-039
+T008,Thor (Jane Foster),Ops./Intel,VG,Cosmic & Reality (CR),,THOR-(JANE-FOSTER)-153
+T008,Apocalypse,Intelligence,PO,Physical Combatants (PC),,APOCALYPSE-006
+T008,Warlock,Sovereign,SV,Cosmic & Reality (CR),,WARLOCK-160
+T008,Beast,Bench,Bench,Technological & Cybernetic (TC),,BEAST-009
+T009,Cable,Bench,Bench,Technological & Cybernetic (TC),,CABLE-023
+T010,Spider-Woman,Bench,Bench,Physical Combatants (PC),,SPIDER-WOMAN-134
+T011,War Machine,Bench,Bench,Technological & Cybernetic (TC),,WAR-MACHINE-159
+T009,Namor (The Sub-Mariner),Field Leader,FL,Cosmic & Reality (CR),,NAMOR-(THE-SUB-MARINER)-104
+T009,Elixir,Operations,RG,Mystic Adept (MA),,ELIXIR-051
+T009,Storm,Operations,VG,Mystic Adept (MA),,STORM-138
+T009,Valkyrie,Ops./Intel,RG,Mystic Adept (MA),,VALKYRIE-156
+T009,Black Panther (Shuri),Ops./Intel,VG,Technological & Cybernetic (TC),,BLACK-PANTHER-(SHURI)-014
+T009,Marvel Girl,Ops./Intel,VG,Mental Manipulators (MM),,MARVEL-GIRL-092
+T009,Blade,Intelligence,PO,Mystic Adept (MA),,BLADE-018
+T009,Hyperion,Sovereign,SV,Cosmic & Reality (CR),,HYPERION-072
+T009,Black Cat,Bench,Bench,Strategy & Espionage (SE),,BLACK-CAT-013
+T009,Black Widow,Bench,Bench,Strategy & Espionage (SE),,BLACK-WIDOW-017
+T009,Cyclops,Bench,Bench,Physical Combatants (PC),,CYCLOPS-034
+T009,Danger,Bench,Bench,Technological & Cybernetic (TC),,DANGER-038
+T010,Spectrum,Field Leader,FL,Physical Combatants (PC),,SPECTRUM-131
+T010,Quake,Operations,RG,Physical Combatants (PC),,QUAKE-117
+T010,Groot,Operations,VG,Physical Combatants (PC),,GROOT-064
+T010,Sunspot,Ops./Intel,RG,Cosmic & Reality (CR),,SUNSPOT-140
+T010,Loki,Ops./Intel,VG,Mystic Adept (MA),,LOKI-087
+T010,Mystique,Ops./Intel,VG,Strategy & Espionage (SE),,MYSTIQUE-103
+T010,Nico Minoru,Intelligence,PO,Mystic Adept (MA),,NICO-MINORU-107
+T010,Agatha Harkness,Sovereign,SV,Mystic Adept (MA),,AGATHA-HARKNESS-003
+T010,Echo,Bench,Bench,Strategy & Espionage (SE),,ECHO-049
+T010,Jubilee,Bench,Bench,Physical Combatants (PC),,JUBILEE-081
+T010,Polaris,Bench,Bench,Mental Manipulators (MM),,POLARIS-113
+T010,Squirrel Girl,Bench,Bench,Cosmic & Reality (CR),,SQUIRREL-GIRL-135

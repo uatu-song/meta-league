@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Synch",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Bishop",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Magneto",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "Hulk",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Carnage",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Psylocke",
+    "role": "Ops./Intel",
+    "position": "GO"
+  },
+  {
+    "name": "Moonstar",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Scarlet Witch",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Cloak",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Dagger",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Ironheart",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Smasher",
+    "role": "Bench",
+    "position": ""
+  }
+]

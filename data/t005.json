@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Doctor Doom",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Black Bolt",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Gladiator",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "Beta Ray Bill",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Exodus",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Darwin",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Proteus",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Sentry",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Guardian",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Jocasta",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Nimrod",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Taskmaster",
+    "role": "Bench",
+    "position": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Namor (The Sub-Mariner)",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Elixir",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Storm",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "Valkyrie",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Black Panther (Shuri)",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Marvel Girl",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Blade",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Hyperion",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Black Cat",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Black Widow",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Cyclops",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Danger",
+    "role": "Bench",
+    "position": ""
+  }
+]

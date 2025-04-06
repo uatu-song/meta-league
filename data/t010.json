@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Spectrum",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Quake",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Groot",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "Sunspot",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Loki",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Mystique",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Nico Minoru",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Agatha Harkness",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Echo",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Jubilee",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Polaris",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Squirrel Girl",
+    "role": "Bench",
+    "position": ""
+  }
+]

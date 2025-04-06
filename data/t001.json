@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Rogue",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Domino",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Magik",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "Colossus",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Gambit",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Doctor Strange",
+    "role": "Ops./Intel",
+    "position": "GO"
+  },
+  {
+    "name": "Emma Frost",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Jean Grey (Phoenix)",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Hawkeye",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Quicksilver",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Shang-Chi",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Venom",
+    "role": "Bench",
+    "position": ""
+  }
+]

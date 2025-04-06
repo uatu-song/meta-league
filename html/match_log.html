@@ -1,0 +1,13 @@
+// /frontend/src/features/simulation/pages/SimLogViewer.jsx
+export default function SimLogViewer() {
+  return (
+    <div className="w-full h-screen p-4">
+      <h2 className="text-xl font-bold mb-2">Simulation Output</h2>
+      <iframe
+        src="/html/match_log.html"
+        title="Simulation Output"
+        className="w-full h-[90vh] border border-gray-400"
+      />
+    </div>
+  );
+}

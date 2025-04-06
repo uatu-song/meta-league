@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Captain Marvel",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Iron Fist",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Drax the Destroyer",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "Morph",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Star Brand",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "The Thing",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Doctor Octopus",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Silver Surfer",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Black Panther (T'Challa)",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Ghost Spider (Spider-Gwen)",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Moon Knight",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Professor X",
+    "role": "Bench",
+    "position": ""
+  }
+]

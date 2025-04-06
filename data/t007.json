@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Captain America (Rogers)",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Spider-Man (Morales)",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Wolverine / X-23",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "The Human Torch",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Mr. Fantastic",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Xorn",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Ghost Rider",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Blue Marvel",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Adam Warlock",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Nebula",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Nick Fury",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Nightcrawler",
+    "role": "Bench",
+    "position": ""
+  }
+]

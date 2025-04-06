@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Iron Man",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Nova",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Spider-Man (Parker)",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "Super-Skrull",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Brawn (Totally Awesome Hulk)",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "The Wasp",
+    "role": "Ops./Intel",
+    "position": "GO"
+  },
+  {
+    "name": "Forge",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Hulkling (Teddy Altman)",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Brother Voodoo",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Invisible Woman",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Punisher",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Wiccan",
+    "role": "Bench",
+    "position": ""
+  }
+]

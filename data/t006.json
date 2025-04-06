@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Thor",
+    "role": "Field Leader",
+    "position": "FL"
+  },
+  {
+    "name": "Deadpool",
+    "role": "Operations",
+    "position": "RG"
+  },
+  {
+    "name": "Wolverine",
+    "role": "Operations",
+    "position": "VG"
+  },
+  {
+    "name": "She-Hulk",
+    "role": "Ops./Intel",
+    "position": "RG"
+  },
+  {
+    "name": "Iceman",
+    "role": "Ops./Intel",
+    "position": "VG"
+  },
+  {
+    "name": "Rocket Racoon",
+    "role": "Ops./Intel",
+    "position": "GO"
+  },
+  {
+    "name": "Kid Omega",
+    "role": "Intelligence",
+    "position": "PO"
+  },
+  {
+    "name": "Wonder Man",
+    "role": "Sovereign",
+    "position": "SV"
+  },
+  {
+    "name": "Ant-Man",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Deathlok",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Gamora",
+    "role": "Bench",
+    "position": ""
+  },
+  {
+    "name": "Kang the Conqueror",
+    "role": "Bench",
+    "position": ""
+  }
+]

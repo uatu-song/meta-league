@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Add/Drop Players</title>
+    <style>
+      body { font-family: sans-serif; margin: 2rem; }
+      .player { margin: 0.5rem 0; }
+      .add-button, .drop-button {
+        margin-left: 1rem;
+        padding: 0.2rem 0.5rem;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Add/Drop Players</h1>
+
+    <h2>Free Agents</h2>
+    <!-- Hard-code or dynamically fill from a script / Google Sheet, etc. -->
+    <div class="player">
+      <span>Player A</span>
+      <button class="add-button">Add</button>
+    </div>
+    <div class="player">
+      <span>Player B</span>
+      <button class="add-button">Add</button>
+    </div>
+
+    <h2>My Team</h2>
+    <!-- Similarly, you’d list current players with “Drop” buttons -->
+    <div class="player">
+      <span>Player X</span>
+      <button class="drop-button">Drop</button>
+    </div>
+    <div class="player">
+      <span>Player Y</span>
+      <button class="drop-button">Drop</button>
+    </div>
+
+    <!-- You could attach an inline script or external .js file for your add/drop logic. -->
+    <script>
+      document.querySelectorAll('.add-button').forEach((btn) => {
+        btn.addEventListener('click', (evt) => {
+          const player = evt.target.parentNode.querySelector('span').textContent;
+          // TODO: do your "Add" logic, e.g. fetch('/api/confirm_add_drop', {...})
+          alert(`Added ${player}! (Stub)`);
+        });
+      });
+
+      document.querySelectorAll('.drop-button').forEach((btn) => {
+        btn.addEventListener('click', (evt) => {
+          const player = evt.target.parentNode.querySelector('span').textContent;
+          // TODO: do your "Drop" logic
+          alert(`Dropped ${player}! (Stub)`);
+        });
+      });
+    </script>
+  </body>
+</html>
