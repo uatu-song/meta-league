@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>METAL Fantasy League</title>
+  <link href="https://fonts.googleapis.com/css?family=Bangers|Roboto:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script type="module" src="{{ url_for('static', filename='js/main.js') }}" defer></script>
+</head>
+<body>
+  <header><h1>Marvel Elective Tactics Assembly League</h1></header>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Roster</a>
+    <a href="#">Matchups</a>
+    <a href="#">Scores</a>
+  </nav>
+
+  <div id="legendSidebar"><h3>Stat Legend</h3><ul id="statsBody"></ul></div>
+  <div id="positionSidebar"><h3>Position Legend</h3><ul id="positionsBody"></ul></div>
+  <div id="legendToggle">☰</div>
+  <div id="positionToggle">☰</div>
+
+  <div class="container">
+    <label for="teamFilter">Filter by Team:</label>
+    <select id="teamFilter"><option value="">All Teams</option></select>
+    <input type="text" id="searchBox" placeholder="Search Nexus Being..." />
+
+    <table id="statsTable" class="display" style="width:100%">
+      <thead>
+        <tr>
+          <th>Photo</th><th>Nexus Being</th><th>Action</th><th>Pos</th><th>Type</th><th>Mobility</th>
+          <th>Power Rating</th><th>INT</th><th>STR</th><th>SPD</th><th>DUR</th><th>EP</th>
+          <th>FS</th><th>LDR</th><th>RES</th><th>WIL</th><th>LCK</th><th>ESP</th>
+          <th>OP</th><th>AM</th><th>SBY</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+
+    <div id="pagination-controls" class="pagination"></div>
+    <button id="confirmMoves" class="confirm-button" style="display:none;">Confirm Moves</button>
+    <div id="hoverPopup" class="hover-popup"></div>
+  </div>
+
+  <footer style="text-align:center; padding:20px; background: var(--header-bg); color: white">
+    &copy; 2025 META League
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+
+<script>
+  $(document).ready(function () {
+    $('#statsTable').DataTable({
+      columnDefs: [
+        { targets: [6,7,8,9,10,11,12,13,14,15,16,17,18,19,20], type: 'num' }
+      ]
+    });
+  });
+</script>
+
+</body>
+</html>
