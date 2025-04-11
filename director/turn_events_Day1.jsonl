@@ -1,0 +1,5 @@
+{"turn_number": 1, "actor": "Spider-Man (Parker)", "target": "Magik", "damage": 8, "ko_occurred": false, "traits_triggered": ["Shadowstep Reflexes"], "synergy_triggers": [], "chain_effects": []}
+{"turn_number": 2, "actor": "Magik", "target": "Gambit", "damage": 6, "ko_occurred": false, "traits_triggered": [], "synergy_triggers": ["Command Overlap"], "chain_effects": []}
+{"turn_number": 3, "actor": "Rogue", "target": "Super-Skrull", "damage": 0, "ko_occurred": false, "traits_triggered": [], "synergy_triggers": ["Command Overlap"], "chain_effects": []}
+{"turn_number": 4, "actor": "Emma Frost", "target": "Iron Man", "damage": 7, "ko_occurred": false, "traits_triggered": ["Diamond Form Conversion"], "synergy_triggers": [], "chain_effects": []}
+{"turn_number": 5, "actor": "Spider-Man (Parker)", "target": "Domino", "damage": 8, "ko_occurred": false, "traits_triggered": ["Shadowstep Reflexes"], "synergy_triggers": ["Command Overlap"], "chain_effects": []}

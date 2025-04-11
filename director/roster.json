@@ -1,0 +1,652 @@
+{
+  "Agents of Vishanti": {
+    "name": "Agents of Vishanti",
+    "members": [
+      {
+        "name": "Adam Warlock",
+        "role": "PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314714/Adam_Warlock_adkjlp.png"
+      },
+      {
+        "name": "Blue Marvel",
+        "role": "FL, RG, EN, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314740/Blue_Marvel_igitux.png"
+      },
+      {
+        "name": "Captain America (Rogers)",
+        "role": "FL, RG, VG",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314754/Cyclops_bvrk3a.png"
+      },
+      {
+        "name": "Ghost Rider",
+        "role": "RG, VG, EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314780/Ghost_Rider_degihh.png"
+      },
+      {
+        "name": "Mr. Fantastic",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318248/Mr._Fantastic_kkx3qe.png"
+      },
+      {
+        "name": "Nebula",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318255/Nebula_uja8e5.png"
+      },
+      {
+        "name": "Nick Fury",
+        "role": "FL, RG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318256/Nick_Fury_msiuq0.png"
+      },
+      {
+        "name": "Nightcrawler",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318259/Nightcrawler_lcv7ip.png"
+      },
+      {
+        "name": "Spider-Man (Morales)",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318290/Spider-Man_Morales_eup3g2.png"
+      },
+      {
+        "name": "The Human Torch",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318307/The_Human_Torch_erbv6v.png"
+      },
+      {
+        "name": "Wolverine / X-23",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741319395/Wolverine_X-23_smdne1.png"
+      },
+      {
+        "name": "Xorn",
+        "role": "EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318328/Xorn_k7rhmm.png"
+      }
+    ]
+  },
+  "Your honor, we were just being silly": {
+    "name": "Your honor, we were just being silly",
+    "members": [
+      {
+        "name": "Agatha Harkness",
+        "role": "PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314715/Agatha_Harkness_nfklqe.png"
+      },
+      {
+        "name": "Echo",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314769/Echo_kkyjh9.png"
+      },
+      {
+        "name": "Groot",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314784/Groot_edh6nd.png"
+      },
+      {
+        "name": "Jubilee",
+        "role": "RG, VG",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318230/Jubilee_fogrds.png"
+      },
+      {
+        "name": "Loki",
+        "role": "RG, VG, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318235/Loki_gtfr5p.png"
+      },
+      {
+        "name": "Mystique",
+        "role": "RG, PO, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318253/Mystique_znwucr.png"
+      },
+      {
+        "name": "Nico Minoru",
+        "role": "VG, EN, PO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318257/Nico_Minoru_thrxav.png"
+      },
+      {
+        "name": "Polaris",
+        "role": "RG, VG",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318265/Polaris_kn2q6o.png"
+      },
+      {
+        "name": "Quake",
+        "role": "FL, RG, VG, EN, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318270/Quake_fzhkl5.png"
+      },
+      {
+        "name": "Spectrum",
+        "role": "FL, EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318287/Spectrum_osjylx.png"
+      },
+      {
+        "name": "Squirrel Girl",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318292/Squirrel_Girl_n7irnb.png"
+      },
+      {
+        "name": "Sunspot",
+        "role": "RG, VG",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318299/Sunspot_rrwxq8.png"
+      }
+    ]
+  },
+  "Pigeon Desk": {
+    "name": "Pigeon Desk",
+    "members": [
+      {
+        "name": "Ant-Man",
+        "role": "FL, RG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314716/Ant-Man_gjesnh.png"
+      },
+      {
+        "name": "Deadpool",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314762/Deadpool_oxuick.png"
+      },
+      {
+        "name": "Deathlok",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314763/Deathlok_jzw2yw.png"
+      },
+      {
+        "name": "Gamora",
+        "role": "RG, VG",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314779/Gamora_ttgpzm.png"
+      },
+      {
+        "name": "Iceman",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318221/Iceman_pzcjyt.png"
+      },
+      {
+        "name": "Kang the Conqueror",
+        "role": "FL, RG, VG, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318232/Kang_the_Conquerer_pt3v1r.png"
+      },
+      {
+        "name": "Kid Omega",
+        "role": "RG, VG, EN, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318271/Quentin_Quire_mobzuz.png"
+      },
+      {
+        "name": "Rocket Racoon",
+        "role": "RG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318275/Rocket_Raccoon_sktf8z.png"
+      },
+      {
+        "name": "She-Hulk",
+        "role": "FL, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318284/She-Hulk_slwuaf.png"
+      },
+      {
+        "name": "Thor",
+        "role": "FL, RG, VG, EN, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318312/Thor_v7dyvj.png"
+      },
+      {
+        "name": "Wolverine",
+        "role": "FL, RG, VG, EN, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318326/Wolverine_qp3cqw.png"
+      },
+      {
+        "name": "Wonder Man",
+        "role": "RG, VG, EN, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318327/Wonder_Man_xszf9p.png"
+      }
+    ]
+  },
+  "Slow And Threatening": {
+    "name": "Slow And Threatening",
+    "members": [
+      {
+        "name": "Apocalypse",
+        "role": "FL, VG, EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314716/Apocalypse_jbxc68.png"
+      },
+      {
+        "name": "Beast",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314719/Beast_l04atp.png"
+      },
+      {
+        "name": "Cable",
+        "role": "FL, RG, VG, PO, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314743/Cable_szjpsj.png"
+      },
+      {
+        "name": "Daredevil",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314759/Daredevil_yxvq9j.png"
+      },
+      {
+        "name": "Juggernaut",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318230/Juggernaut_v2ncm4.png"
+      },
+      {
+        "name": "Sage",
+        "role": "FL, RG, PO, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318279/Sage_g1mqtk.png"
+      },
+      {
+        "name": "Spider-Woman",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318291/Spider-Woman_agxxqt.png"
+      },
+      {
+        "name": "Thor (Jane Foster)",
+        "role": "FL, RG, VG, EN, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318311/Thor_Jane_Foster_svqy2j.png"
+      },
+      {
+        "name": "Ultron",
+        "role": "FL, RG, VG, EN, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318315/Ultron_ptcnsi.png"
+      },
+      {
+        "name": "Vision",
+        "role": "RG, VG, EN, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318318/Vision_ehxmmp.png"
+      },
+      {
+        "name": "War Machine",
+        "role": "FL, RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318319/War_Machine_isvhln.png"
+      },
+      {
+        "name": "Warlock",
+        "role": "RG, VG, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1743285635/Warlock_iaxazg.png"
+      }
+    ]
+  },
+  "Ligmasigma II": {
+    "name": "Ligmasigma II",
+    "members": [
+      {
+        "name": "Beta Ray Bill",
+        "role": "RG, VG, EN, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314720/Beta_Ray_Bill_znnd20.png"
+      },
+      {
+        "name": "Black Bolt",
+        "role": "FL, RG, VG, EN, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314721/Black_Bolt_vz1ea9.png"
+      },
+      {
+        "name": "Darwin",
+        "role": "RG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314759/Darwin_gknahz.png"
+      },
+      {
+        "name": "Doctor Doom",
+        "role": "FL, RG, VG, EN, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314764/Doctor_Doom_h3mfz7.png"
+      },
+      {
+        "name": "Exodus",
+        "role": "VG, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314773/Exodus_vjnod9.png"
+      },
+      {
+        "name": "Gladiator",
+        "role": "FL, RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314782/Gladiator_hgsnsa.png"
+      },
+      {
+        "name": "Guardian",
+        "role": "RG, VG",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314787/Guardian_mmdg4f.png"
+      },
+      {
+        "name": "Jocasta",
+        "role": "RG, VG, EN, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318229/Jocasta_rqbzet.png"
+      },
+      {
+        "name": "Nimrod",
+        "role": "FL, RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318260/Nimrod_b2urwh.png"
+      },
+      {
+        "name": "Proteus",
+        "role": "EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318268/Proteus_zdbncl.png"
+      },
+      {
+        "name": "Sentry",
+        "role": "RG, VG, EN, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318281/Sentry_av6tvc.png"
+      },
+      {
+        "name": "Taskmaster",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318303/Taskmaster_hp7xvt.png"
+      }
+    ]
+  },
+  "Sterling's Silly Soldiers": {
+    "name": "Sterling's Silly Soldiers",
+    "members": [
+      {
+        "name": "Bishop",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314721/Bishop_jgsqng.png"
+      },
+      {
+        "name": "Carnage",
+        "role": "RG, VG",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314747/Carnage_hslphu.png"
+      },
+      {
+        "name": "Cloak",
+        "role": "RG, PO, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314748/Cloak_zo7mdk.png"
+      },
+      {
+        "name": "Dagger",
+        "role": "RG, PO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314756/Dagger_mxof4u.png"
+      },
+      {
+        "name": "Hulk",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318215/Hulk_ahkfbm.png"
+      },
+      {
+        "name": "Ironheart",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318225/Ironheart_h7d6nz.png"
+      },
+      {
+        "name": "Magneto",
+        "role": "FL, RG, VG, EN, PO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318239/Magneto_tjgwbi.png"
+      },
+      {
+        "name": "Moonstar",
+        "role": "RG, VG, PO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318246/Moonstar_vfbdje.png"
+      },
+      {
+        "name": "Psylocke",
+        "role": "FL, RG, VG, PO, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318268/Psylocke_pdzswi.png"
+      },
+      {
+        "name": "Scarlet Witch",
+        "role": "EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318280/Scarlet_Witch_sgxuq0.png"
+      },
+      {
+        "name": "Smasher",
+        "role": "EN, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318286/Smasher_csmbaw.png"
+      },
+      {
+        "name": "Synch",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318300/Synch_mrzw09.png"
+      }
+    ]
+  },
+  "Amber": {
+    "name": "Amber",
+    "members": [
+      {
+        "name": "Black Cat",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314722/Black_Cat_wnds1j.png"
+      },
+      {
+        "name": "Black Panther (Shuri)",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314723/Black_Panther_shuri_erjuvr.png"
+      },
+      {
+        "name": "Black Widow",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314737/Black_Widow_wershx.png"
+      },
+      {
+        "name": "Blade",
+        "role": "RG, VG, PO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314737/Blade_bct9cz.png"
+      },
+      {
+        "name": "Cyclops",
+        "role": "FL, RG, VG",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314753/Cyclops_hf0xex.png"
+      },
+      {
+        "name": "Danger",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314758/Danger_b7tok8.png"
+      },
+      {
+        "name": "Elixir",
+        "role": "RG, PO, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314772/Elixer_aoliyi.png"
+      },
+      {
+        "name": "Hyperion",
+        "role": "RG, VG, EN, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318218/Hyperion_hw9flb.png"
+      },
+      {
+        "name": "Marvel Girl",
+        "role": "FL, RG, VG, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318240/Marvel_Girl_w8xdhz.png"
+      },
+      {
+        "name": "Namor (The Sub-Mariner)",
+        "role": "FL, RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318254/Namor_The_Sub-Mariner_vpdult.png"
+      },
+      {
+        "name": "Storm",
+        "role": "FL, RG, VG, EN, PO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318296/Storm_vhlx6e.png"
+      },
+      {
+        "name": "Valkyrie",
+        "role": "RG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318316/Valkyrie_yzesrp.png"
+      }
+    ]
+  },
+  "Dumb and Dumber Returns": {
+    "name": "Dumb and Dumber Returns",
+    "members": [
+      {
+        "name": "Black Panther (T'Challa)",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314735/Black_Panther_vk7bze.png"
+      },
+      {
+        "name": "Captain Marvel",
+        "role": "FL, RG, VG, EN, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314747/Captain_Marvel_dc9tjh.png"
+      },
+      {
+        "name": "Doctor Octopus",
+        "role": "RG, VG, EN, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314765/Doctor_Octopus_lyx5af.png"
+      },
+      {
+        "name": "Drax the Destroyer",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314768/Drax_the_Destroyer_cvkroc.png"
+      },
+      {
+        "name": "Ghost Spider (Spider-Gwen)",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314781/Ghost_Spider_pejzo2.png"
+      },
+      {
+        "name": "Iron Fist",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318222/Iron_Fist_kx3n0d.png"
+      },
+      {
+        "name": "Moon Knight",
+        "role": "RG, VG, PO, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318245/Moon_Knight_diau8v.png"
+      },
+      {
+        "name": "Morph",
+        "role": "RG, PO, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318247/Morph_yxm36n.png"
+      },
+      {
+        "name": "Professor X",
+        "role": "FL, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318266/Professor_X_qqratk.png"
+      },
+      {
+        "name": "Silver Surfer",
+        "role": "EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318286/Silver_Surfer_y5xsn1.png"
+      },
+      {
+        "name": "Star Brand",
+        "role": "EN, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318295/Star_Brand_fqoarm.png"
+      },
+      {
+        "name": "The Thing",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318309/The_Thing_kchqjt.png"
+      }
+    ]
+  },
+  "Costco Wholesale": {
+    "name": "Costco Wholesale",
+    "members": [
+      {
+        "name": "Brawn (Totally Awesome Hulk)",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314741/Brawn_qhy5ke.png"
+      },
+      {
+        "name": "Brother Voodoo",
+        "role": "PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314742/Brother_Voodoo_i5utms.png"
+      },
+      {
+        "name": "Forge",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314776/Forge_h8xwpk.png"
+      },
+      {
+        "name": "Hulkling (Teddy Altman)",
+        "role": "RG, VG, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318216/Hulkling_c1xyrf.png"
+      },
+      {
+        "name": "Invisible Woman",
+        "role": "FL, RG, VG, EN, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318221/Invisible_Woman_lygdyz.png"
+      },
+      {
+        "name": "Iron Man",
+        "role": "FL, RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318222/Iron_Man_ysqzh4.png"
+      },
+      {
+        "name": "Nova",
+        "role": "RG, VG, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318261/Nova_lgo64s.png"
+      },
+      {
+        "name": "Punisher",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318269/Punisher_ngyazf.png"
+      },
+      {
+        "name": "Spider-Man (Parker)",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318290/Spider-Man_msotdp.png"
+      },
+      {
+        "name": "Super-Skrull",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318300/Super-Skrull_vnzo7w.png"
+      },
+      {
+        "name": "The Wasp",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318309/The_Wasp_ikquyx.png"
+      },
+      {
+        "name": "Wiccan",
+        "role": "VG, EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318321/Wiccan_edmwpq.png"
+      }
+    ]
+  },
+  "Gambit Is A Pretty Pretty Princess": {
+    "name": "Gambit Is A Pretty Pretty Princess",
+    "members": [
+      {
+        "name": "Colossus",
+        "role": "RG, VG, EN",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314751/Colossus_dhl0jo.png"
+      },
+      {
+        "name": "Doctor Strange",
+        "role": "FL, RG, VG, EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314766/Doctor_Strange_fninxw.png"
+      },
+      {
+        "name": "Domino",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314767/Domino_cwgvny.png"
+      },
+      {
+        "name": "Emma Frost",
+        "role": "FL, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314772/Emma_Frost_tif973.png"
+      },
+      {
+        "name": "Gambit",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741314778/Gambit_wznocp.png"
+      },
+      {
+        "name": "Hawkeye",
+        "role": "FL, RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318214/Hawkeye_aqzrhx.png"
+      },
+      {
+        "name": "Jean Grey (Phoenix)",
+        "role": "FL, RG, VG, EN, PO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318226/Jean_Grey_Phoenix_jogysk.png"
+      },
+      {
+        "name": "Magik",
+        "role": "RG, VG, PO, GO, SV",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318238/Magik_qnjvms.png"
+      },
+      {
+        "name": "Quicksilver",
+        "role": "FL, RG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318273/Quicksilver_gb5mfv.png"
+      },
+      {
+        "name": "Rogue",
+        "role": "FL, RG, VG, EN, PO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318276/Rogue_qyimm7.png"
+      },
+      {
+        "name": "Shang-Chi",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318281/Shang-Chi_wht5eh.png"
+      },
+      {
+        "name": "Venom",
+        "role": "RG, VG, GO",
+        "image": "https://res.cloudinary.com/dvncqcife/image/upload/v1741318317/Venom_kzevm3.png"
+      }
+    ]
+  }
+}

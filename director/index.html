@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Operational Manifest</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+  <style>
+    body { margin: 0; font-family: 'Orbitron', sans-serif; background: #fff; overflow-x: hidden; }
+    .container { display: flex; height: 100vh; }
+    .grid-panel { flex: 1; padding: 40px; transition: flex 1s ease-in-out; overflow-y: auto; }
+    .console-panel { flex: 0; opacity: 0; background: #111; color: #fff; transition: all 1.5s ease-in-out 1s; padding: 40px; font-family: 'Share Tech Mono', monospace; display: flex; flex-direction: column; justify-content: space-between; }
+    .container.unlocked .grid-panel { flex: 0 0 45%; }
+    .container.unlocked .console-panel { flex: 0 0 55%; opacity: 1; }
+    h1.title { text-align: center; font-size: 2em; margin-bottom: 30px; }
+    .grid-container { display: grid; gap: 20px; }
+    .grid-row { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+    .character { display: flex; flex-direction: column; align-items: center; text-align: center; }
+    .portrait { width: 120px; height: 120px; border-radius: 50%; background-color: #007acc; background-size: cover; background-position: center; border: 3px solid #000; margin-bottom: 10px; }
+    .name { font-weight: bold; text-transform: uppercase; }
+    .role { font-size: 0.85em; color: #ccc; }
+    #unlockForm { position: absolute; top: 20px; left: 20px; font-family: 'Share Tech Mono', monospace; z-index: 10; }
+    #unlockForm.hidden { display: none; }
+    .welcome { font-size: 1.4em; color: #00ffcc; opacity: 0; transform: translateY(-20px); transition: all 1s ease-in-out 2s; }
+    .welcome.visible { opacity: 1; transform: translateY(0); }
+  </style>
+</head>
+<body>
+  <div id="unlockForm">
+    <label for="teamPassword">Enter Team Password:</label>
+    <input type="password" id="teamPassword" />
+    <button onclick="unlockConsole()">Unlock</button>
+  </div>
+
+  <div class="container" id="mainContainer">
+    <div class="grid-panel">
+      <h1 class="title">Operational Manifest</h1>
+      <div class="grid-container" id="gridContainer"></div>
+    </div>
+    <div class="console-panel" id="consolePanel">
+      <div>
+        <div class="welcome" id="welcomeMessage">Welcome back, Director</div>
+        <p style="margin-top: 20px;">System unlocked. Further dashboard integration pending...</p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const teams = {
+      'krakoa1': 'Krakoa',
+      'pigeondesk4': 'Pigeon Desk',
+      'vishanti2': 'Agents of Vishanti',
+      'masterkey9': 'Master Commander'
+    };
+
+    function unlockConsole() {
+      const pw = document.getElementById('teamPassword').value;
+      const team = teams[pw];
+      if (team) {
+        document.getElementById('mainContainer').classList.add('unlocked');
+        document.getElementById('unlockForm').classList.add('hidden');
+        const welcome = document.getElementById('welcomeMessage');
+        welcome.textContent = 'Welcome back, Director ' + team;
+        setTimeout(() => welcome.classList.add('visible'), 2000);
+        loadRoster(team);
+      } else {
+        alert('Invalid password.');
+      }
+    }
+
+    function loadRoster(teamName) {
+      fetch('roster.json')
+        .then(res => res.json())
+        .then(data => {
+          const members = data[teamName]?.members || [];
+          const grid = document.getElementById('gridContainer');
+          grid.innerHTML = '';
+          let row;
+          members.forEach((m, i) => {
+            if (i % 3 === 0) {
+              row = document.createElement('div');
+              row.className = 'grid-row';
+              grid.appendChild(row);
+            }
+            const char = document.createElement('div');
+            char.className = 'character';
+            char.innerHTML = `
+              <div class="portrait" style="background-image: url('${m.image || 'https://via.placeholder.com/100x100.png?text=Hero'}');"></div>
+              <div class="name">${m.name}</div>
+              <div class="role">${m.role}</div>
+            `;
+            row.appendChild(char);
+          });
+        });
+    }
+  </script>
+</body>
+</html>
