@@ -53,7 +53,9 @@
       'masterkey9': 'Master Commander'
     };
 
-    function unlockConsole() {
+    window.onload = () => loadRoster('Krakoa');  // Default preview team
+
+function unlockConsole() {
       const pw = document.getElementById('teamPassword').value;
       const team = teams[pw];
       if (team) {
