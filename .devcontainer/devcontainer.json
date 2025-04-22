@@ -1,0 +1,5 @@
+{
+  "name": "metachess-zero",
+  "image": "mcr.microsoft.com/devcontainers/python:3.9",
+  "postCreateCommand": "sudo apt update && sudo apt install -y make g++"
+}
